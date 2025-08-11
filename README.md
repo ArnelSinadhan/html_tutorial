@@ -1,6 +1,6 @@
 # HTML Tutorial
 
-Welcome to the HTML Tutorial!  
+Welcome to the HTML Tutorial!
 This project provides simple examples and explanations to help you learn the basics of HTML.
 
 ## What You'll Learn
